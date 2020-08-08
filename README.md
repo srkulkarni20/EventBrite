@@ -18,10 +18,9 @@ Features:
 . Integrated with frontend to test the application http://localhost:7823 (To Access the Application)
 . User can view various events and details on the events  in the Application.
 . User can search for specific event and filter based on various event properties.
-. User needs to login to perform the following:
-   .To Create his own event
-   .To register and pay for the event
-   .To check his order history and  details of each order.
+. Authentication added for post event for events catalog,so that authorized user can create the event.
+. User can pay and place orders for events.
+. User can view order history and details of each order placed.
    
    
    
